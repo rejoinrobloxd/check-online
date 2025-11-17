@@ -1,4 +1,4 @@
-# Dawn Checker 🎯
+# Dawn Checker
 
 A fast and reliable Roblox cookie validation tool built in Rust. It helps you check if your Roblox accounts are still valid, banned, or have issues - either through batch processing of cookie files or real-time monitoring with a nice terminal interface.
 
